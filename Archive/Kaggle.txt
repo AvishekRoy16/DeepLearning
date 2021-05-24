@@ -1,0 +1,28 @@
+The below list contains all the Deep Learning course Kaggle contest links:
+
+PadhAI: MP Neuron - Like Unlike Classification
+https://www.kaggle.com/t/7f7013f886464d9a8b6db16a3f2fe153 74
+
+PadhAI: Perceptron - Like Unlike Classification
+https://www.kaggle.com/t/e74469cb24d64e1c98c254cdd57fe729 19
+
+PadhAI: Text - Non Text Classification Level 1
+https://www.kaggle.com/t/91c11af5eea3459093ba583fc8bb8332 15
+
+PadhAI: Text - Non Text Classification Level 2
+https://www.kaggle.com/t/72527ad3ab2d44bea332023e910f7795 4
+
+PadhAI: Text - Non Text Classification Level 3
+https://www.kaggle.com/t/a023d79bb6bd441d8d65ab05adde4a8b 2
+
+PadhAI: Text - Non Text Classification Level 4a
+https://www.kaggle.com/t/c321dd3ceb174621b409d73193ae3b6a 3
+
+PadhAI: Text - Non Text Classification Level 4b
+https://www.kaggle.com/t/2ae816827e3148e9b23598972ad4b9a1 5
+
+PadhAI: Hindi Vowel - Consonant Classification
+https://www.kaggle.com/c/padhai-hindi-vow-cons-classification 13
+
+PadhAI: Tamil Vowel - Consonant Classification
+https://www.kaggle.com/c/padhai-tamil-vow-cons-classification
