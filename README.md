@@ -9,4 +9,5 @@ Folder and what is in them:
 
 2. Primitive Neuron: This is the backbone of machine learning and how it all started. It consists of 2 prmitive machine learinig algorithm MP Neuron and Perceptron.
 
-3.
+3. Sgmoid Neuron: This is an improvement on the previous Primitive Neurons
+
