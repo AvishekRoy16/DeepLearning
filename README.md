@@ -13,3 +13,5 @@ Folder and what is in them:
 
 4. Feed Forward Neural Network: Using the concepts of neural network with sigmoid as neurons to solve binary and multi class classifications.
 
+5. Training Feed Forward Neural Network: Understanding Backpropogation and applying them in both scalar and vector formats. 
+
